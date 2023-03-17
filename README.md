@@ -10,6 +10,8 @@
 
 
 ### CIRCUIT DIAGRAM
+![layout](https://user-images.githubusercontent.com/75235488/225825363-1c7744d3-1522-4bce-b848-ecfceeadaee7.PNG)
+
 
 
 ### SIMULATION OUTPUT
